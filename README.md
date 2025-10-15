@@ -1,4 +1,4 @@
-### About
+## About
 
 I'm an undergraduate at Worcester State University looking to enter a PhD program related to computational science following my graduation. My interests primarily lie in machine learning and numerical simulations. Any and all inquiries are welcome at my email.
 
