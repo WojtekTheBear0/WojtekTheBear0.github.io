@@ -18,7 +18,7 @@ paginate_path: /page:num/
 author:
   name: "Zachary Stomski"
   avatar: "/assets/images/profile.jpg"
-  bio: "Data Scientist exploring machine learning and astrophysical modeling."
+  bio: "Computer Scientist with an Interest in Scientific Machine Learning"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
