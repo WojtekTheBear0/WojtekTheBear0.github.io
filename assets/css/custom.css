@@ -1,0 +1,22 @@
+/* Custom dark theme overrides */
+body {
+  background-color: #121212 !important;
+  color: #eaeaea !important;
+}
+
+a, a:visited {
+  color: #66ccff !important;
+}
+
+.page__title, .author__name {
+  color: #ffffff !important;
+}
+
+.sidebar, .masthead, .page__footer {
+  background: #1c1c1c !important;
+}
+
+.page__content {
+  background: #181818 !important;
+  color: #ddd !important;
+}
