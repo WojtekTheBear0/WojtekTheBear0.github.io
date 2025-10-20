@@ -1,6 +1,6 @@
 title: "Zachary Stomski"
 description: "Data Scientist | Scientific Computing | Astrophysics"
-url: "https://yourusername.github.io"
+url: "https://WojtekTheBear0.github.io"
 
 # Use the Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes"
@@ -28,7 +28,6 @@ author:
       url: "mailto:zstomski@example.com"
 
 # Theme settings
-theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"  # We'll define this custom dark mode
 
 # Add this line at the bottom of _config.yml
