@@ -1,9 +1,8 @@
 ---
 layout: home
 author_profile: true
+title: "About"
 ---
-
-# About
 
 I'm a Computer Science undergraduate at Worcester State University looking to enter a PhD program related to computational science following my graduation. My interests primarily lie in machine learning and numerical simulations. Any and all inquiries are welcome at my email.
 
@@ -13,7 +12,7 @@ I'm a Computer Science undergraduate at Worcester State University looking to en
 - **Modifying Astrochemical Model to Simulate Shock Chemistry** – Adjusted NAUTILUS source code to emulate shock chemistry.
 
 ## 📄 CV & Links
-- [My CV](assets/ZStomskCV.pdf)  
+- [My CV](assets/ZStomski_CV.pdf)  
 - [GitHub](https://github.com/WojtekTheBear0)  
 
 ---
