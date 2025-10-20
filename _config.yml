@@ -29,3 +29,9 @@ author:
 # Theme settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"  # We'll define this custom dark mode
+
+# Add this line at the bottom of _config.yml
+sass:
+  style: compressed
+include:
+  - assets/css/custom.css
