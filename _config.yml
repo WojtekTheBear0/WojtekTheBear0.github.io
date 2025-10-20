@@ -1,0 +1,31 @@
+title: "Zachary Stomski"
+description: "Data Scientist | Scientific Computing | Astrophysics"
+url: "https://yourusername.github.io"
+
+# Use the Minimal Mistakes remote theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: /page:num/
+
+# Author info
+author:
+  name: "Zachary Stomski"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Scientist exploring machine learning and astrophysical modeling."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:zstomski@example.com"
+
+# Theme settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"  # We'll define this custom dark mode
