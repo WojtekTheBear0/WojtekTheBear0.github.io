@@ -11,7 +11,7 @@ I'm a Computer Science undergraduate at Worcester State University looking to en
 - **Modifying Astrochemical Model to Simulate Shock Chemistry** – Adjusted NAUTILUS source code to emulate shock chemistry.
 
 ## 📄 CV & Links
-- [My CV](#)  
+- [My CV](#assets/ZStomskCV.pdf)  
 - [GitHub](https://github.com/WojtekTheBear0)  
 
 ---
