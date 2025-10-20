@@ -22,10 +22,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/WojtekTheBear0"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:zstomski@example.com"
+      url: "mailto:zstomski@worcester.edu"
 
 # Theme settings
 minimal_mistakes_skin: "dark"  # We'll define this custom dark mode
